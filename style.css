@@ -62,13 +62,17 @@ textarea{
   color: white;
   padding: 0px;
 }
-
+.btnDiv {
+  padding: 0px;
+}
 .saveBtn {
+  border: 0px;
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  height: 100%;
 }
 
 .saveBtn:hover {
